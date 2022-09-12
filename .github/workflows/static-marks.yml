@@ -1,0 +1,13 @@
+name: Generates bookmarks HTML file
+
+on:
+  push
+
+jobs:
+  generate-bookmarks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run static-marks
+        uses: ksclarke/static-marks-action
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
