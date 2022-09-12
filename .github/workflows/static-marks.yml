@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run static-marks
-        uses: ksclarke/static-marks-action
+        uses: ksclarke/static-marks-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
