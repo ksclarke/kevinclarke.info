@@ -11,7 +11,7 @@ Software:
       - Native Image resources: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
   - General Java:
       - Logging:
-          - Loki4J config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
+          - Loki4J config: "https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud"
           - SLF4J manual: https://www.slf4j.org/manual.html
           - SLF4J errors: https://www.slf4j.org/codes.html
       - NuProcess: https://github.com/brettwooldridge/NuProcess
