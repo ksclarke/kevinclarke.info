@@ -6,7 +6,6 @@ Software:
       - faasd: https://github.com/openfaas/faasd
       - of-watchdog: https://github.com/openfaas/of-watchdog
       - CLI logs: https://docs.openfaas.com/cli/logs/
-  - GraalVM:
   - General Java:
       - Logging:
           - SLF4J manual: https://www.slf4j.org/manual.html
