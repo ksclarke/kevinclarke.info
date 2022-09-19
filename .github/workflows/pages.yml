@@ -28,8 +28,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      # static-marks action also checks out repo
+      - name: Run static-marks
+        uses: ksclarke/static-marks-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
