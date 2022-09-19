@@ -6,7 +6,7 @@ Software:
       - faasd: https://github.com/openfaas/faasd
       - of-watchdog: https://github.com/openfaas/of-watchdog
       - CLI Logs: https://docs.openfaas.com/cli/logs/
-      - JDK11 intro: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
+      - JDK 11 Intro: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
   - GraalVM:
       - ResourceBundles: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
   - Logging:
