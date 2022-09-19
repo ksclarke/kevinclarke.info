@@ -1,28 +1,30 @@
+---
+
 Software:
   - OpenFaaS:
-    - Templates: https://github.com/openfaas/templates
-    - faasd: https://github.com/openfaas/faasd
-    - of-watchdog: https://github.com/openfaas/of-watchdog
-    - CLI logs: https://docs.openfaas.com/cli/logs/
-    - OpenFaaS and Java: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
+      - Templates: https://github.com/openfaas/templates
+      - faasd: https://github.com/openfaas/faasd
+      - of-watchdog: https://github.com/openfaas/of-watchdog
+      - CLI logs: https://docs.openfaas.com/cli/logs/
+      - OpenFaaS and Java: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
   - GraalVM:
-    - Native Image resources: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
+      - Native Image resources: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
   - General Java:
-    - Logging:
-      - Loki4J config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
-      - SLF4J manual: https://www.slf4j.org/manual.html
-      - SLF4J errors: https://www.slf4j.org/codes.html
-    - NuProcess: https://github.com/brettwooldridge/NuProcess
+      - Logging:
+          - Loki4J config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
+          - SLF4J manual: https://www.slf4j.org/manual.html
+          - SLF4J errors: https://www.slf4j.org/codes.html
+      - NuProcess: https://github.com/brettwooldridge/NuProcess
   - XQuery:
-    - Brackit: https://github.com/sirixdb/brackit
-    - BaseX: https://basex.org/
+      - Brackit: https://github.com/sirixdb/brackit
+      - BaseX: https://basex.org/
   - JSONiq:
-    - RumbleDB: https://rumbledb.org/
+      - RumbleDB: https://rumbledb.org/
 
 Docker:
   - Containers:
-    - docker-osx: https://hub.docker.com/r/sickcodes/docker-osx
-    - alpine: https://hub.docker.com/_/alpine
+      - docker-osx: https://hub.docker.com/r/sickcodes/docker-osx
+      - alpine: https://hub.docker.com/_/alpine
 
 Standards:
   - ActivityPub: https://www.w3.org/TR/activitypub/
