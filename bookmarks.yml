@@ -5,14 +5,14 @@ Software:
       - Templates: https://github.com/openfaas/templates
       - faasd: https://github.com/openfaas/faasd
       - of-watchdog: https://github.com/openfaas/of-watchdog
-      - CLI logs: https://docs.openfaas.com/cli/logs/
-      - OpenFaaS and Java: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
+      - CLI Logs: https://docs.openfaas.com/cli/logs/
+      - JDK11 intro: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
   - GraalVM:
-      - Native Image resources: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
+      - ResourceBundles: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
   - Logging:
-      - Loki4J config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
-      - SLF4J manual: https://www.slf4j.org/manual.html
-      - SLF4J errors: https://www.slf4j.org/codes.html
+      - Loki4J Config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
+      - SLF4J Manual: https://www.slf4j.org/manual.html
+      - SLF4J Errors: https://www.slf4j.org/codes.html
   - Utilities:
       - NuProcess: https://github.com/brettwooldridge/NuProcess
   - XQuery:
