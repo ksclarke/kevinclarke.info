@@ -11,21 +11,57 @@ Software:
       - Maven Plugin: https://graalvm.github.io/native-build-tools/latest/maven-plugin.html
       - Reachability Metadata: https://github.com/oracle/graalvm-reachability-metadata/
       - ResourceBundles: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
+      - GitHub Action: https://github.com/marketplace/actions/github-action-for-graalvm
   - Logging:
       - Loki4J Config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
       - SLF4J Manual: https://www.slf4j.org/manual.html
       - SLF4J Errors: https://www.slf4j.org/codes.html
   - Utilities:
       - NuProcess: https://github.com/brettwooldridge/NuProcess
+      - Picocli: https://picocli.info/
+      - JNR-FFI: https://github.com/jnr/jnr-ffi
+      - sortpom: https://github.com/Ekryd/sortpom
   - XQuery:
       - Brackit: https://github.com/sirixdb/brackit
       - BaseX: https://basex.org/
   - JSONiq:
       - RumbleDB: https://rumbledb.org/
+  - ReMarkable:
+      - Awesome ReMarkable: https://github.com/reHackable/awesome-reMarkable
+      - Remy: https://github.com/bordaigorl/remy
+      - ReMarkable Tools: https://github.com/fenollp/reMarkable-tools
+  - Image:
+      - imageio-jnr: https://github.com/dbmdz/imageio-jnr
+      - libjxl: https://github.com/libjxl/libjxl
+      - NightMonkeys: https://github.com/gotson/NightMonkeys
+  - ByteCoder:
+      - User Manual: https://mirkosertic.github.io/Bytecoder/
+  - Validation:
+      - csv-schema: https://github.com/digital-preservation/csv-schema
+      - csv-validator: https://github.com/digital-preservation/csv-validator
+      - droid: https://github.com/digital-preservation/droid
+      - utf8-validator: https://github.com/digital-preservation/utf8-validator
+  - Documentation:
+      - Javadoc Themer: https://nisrulz.com/javadoc-themer/
+      - HonKit: https://github.com/honkit/honkit
+      - Mermaid in GH: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+      - keenwrite: https://github.com/DaveJarvis/keenwrite
+
+Animation:
+  - 2D:
+      - rhubarb-lib-sync: https://github.com/DanielSWolf/rhubarb-lip-sync
 
 UI:
+  - CSS:
+      - Tailwind: https://tailwindcss.com/
   - Design Systems:
       - DRUIDS: https://druids.datadoghq.com/
+
+Security:
+  - Snyk:
+      - Reachable Vulns: https://docs.snyk.io/features/fixing-and-prioritizing-issues/issue-management/reachable-vulnerabilities
+  - Git:
+      - git-secret: https://git-secret.io/
 
 Docker:
   - Containers:
@@ -35,5 +71,14 @@ Docker:
 Standards:
   - W3C:
       - ActivityPub: https://www.w3.org/TR/activitypub/
+      - XQuery: https://www.w3.org/TR/xquery-31/
+      - XPath: https://www.w3.org/TR/xpath-31/ii
   - Other:
       - JSONiq: https://www.jsoniq.org/
+      - IIIF: https://iiif.io/api/index.html
+
+News and Politics:
+  - Regional:
+      - Watauga Democrat: https://www.wataugademocrat.com/
+      - WataugaWatch: https://blog.wataugawatch.net/
+      - Cardinal and Pine: https://cardinalpine.com/
