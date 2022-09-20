@@ -23,6 +23,10 @@ Software:
   - JSONiq:
       - RumbleDB: https://rumbledb.org/
 
+UI:
+  - Design Systems:
+      - DRUIDS: https://druids.datadoghq.com/
+
 Docker:
   - Containers:
       - docker-osx: https://hub.docker.com/r/sickcodes/docker-osx
@@ -30,6 +34,6 @@ Docker:
 
 Standards:
   - W3C:
-     - ActivityPub: https://www.w3.org/TR/activitypub/
+      - ActivityPub: https://www.w3.org/TR/activitypub/
   - Other:
-     - JSONiq: https://www.jsoniq.org/
+      - JSONiq: https://www.jsoniq.org/
