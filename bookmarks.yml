@@ -9,6 +9,7 @@ Software:
       - JDK 11 Intro: https://www.openfaas.com/blog/get-started-with-java-openjdk11/
   - GraalVM:
       - Maven Plugin: https://graalvm.github.io/native-build-tools/latest/maven-plugin.html
+      - Reachability Metadata: https://github.com/oracle/graalvm-reachability-metadata/
       - ResourceBundles: https://www.graalvm.org/22.0/reference-manual/native-image/Resources/
   - Logging:
       - Loki4J Config: https://loki4j.github.io/loki-logback-appender/docs/configuration#sending-logs-to-grafana-cloud
