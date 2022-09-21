@@ -82,6 +82,8 @@ UI and UX:
 Public APIs:
   - Government:
       - Congress: https://github.com/LibraryOfCongress/api.congress.gov/
+  - Aggregations:
+      - public-apis: https://github.com/public-apis/public-apis
 
 Security:
   - Snyk:
