@@ -20,7 +20,6 @@ Software:
       - NuProcess: https://github.com/brettwooldridge/NuProcess
       - Picocli: https://picocli.info/
       - JNR-FFI: https://github.com/jnr/jnr-ffi
-      - sortpom: https://github.com/Ekryd/sortpom
   - XQuery:
       - Brackit: https://github.com/sirixdb/brackit
       - BaseX: https://basex.org/
@@ -46,6 +45,17 @@ Software:
       - HonKit: https://github.com/honkit/honkit
       - Mermaid in GH: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
       - keenwrite: https://github.com/DaveJarvis/keenwrite
+  - Build Tools:
+      - Codacy: https://www.codacy.com/
+      - Snyk: https://snyk.io/
+      - Maven: https://maven.apache.org/
+      - sortpom: https://github.com/Ekryd/sortpom
+      - formatter-maven-plugin: https://github.com/revelc/formatter-maven-plugin
+      - JaCoCo: https://www.eclemma.org/jacoco/trunk/index.html
+      - Checkstyle: https://checkstyle.org/
+      - PMD: https://pmd.github.io/
+      - CMake: https://cmake.org/
+      - cmake-maven-plugin: https://github.com/cmake-maven-project/cmake-maven-project
 
 Animation:
   - 2D:
