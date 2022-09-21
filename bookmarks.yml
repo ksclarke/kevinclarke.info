@@ -46,16 +46,17 @@ Software:
       - Mermaid in GH: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
       - keenwrite: https://github.com/DaveJarvis/keenwrite
   - Build Tools:
-      - Codacy: https://www.codacy.com/
-      - Snyk: https://snyk.io/
       - Maven: https://maven.apache.org/
-      - sortpom: https://github.com/Ekryd/sortpom
-      - formatter-maven-plugin: https://github.com/revelc/formatter-maven-plugin
+      - CMake: https://cmake.org/
+      - cmake-maven-plugin: https://github.com/cmake-maven-project/cmake-maven-project
+  - Code Conventions:
+      - Codacy: https://www.codacy.com/
       - JaCoCo: https://www.eclemma.org/jacoco/trunk/index.html
       - Checkstyle: https://checkstyle.org/
       - PMD: https://pmd.github.io/
-      - CMake: https://cmake.org/
-      - cmake-maven-plugin: https://github.com/cmake-maven-project/cmake-maven-project
+      - sortpom: https://github.com/Ekryd/sortpom
+      - formatter-maven-plugin: https://github.com/revelc/formatter-maven-plugin
+
 
 Animation:
   - 2D:
@@ -76,6 +77,7 @@ UI:
 
 Security:
   - Snyk:
+      - Documentation: https://docs.snyk.io/
       - Reachable Vulns: https://docs.snyk.io/features/fixing-and-prioritizing-issues/issue-management/reachable-vulnerabilities
   - Git:
       - git-secret: https://git-secret.io/
