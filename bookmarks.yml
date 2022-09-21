@@ -55,7 +55,14 @@ UI:
   - CSS:
       - Tailwind: https://tailwindcss.com/
   - Design Systems:
+      - Design Systems 101: https://www.nngroup.com/articles/design-systems-101/
+      - Penpot: https://github.com/penpot/penpot
+      - Storybook: https://storybook.js.org/
+  - Design Examples:
+      - Gallery: https://designsystemsrepo.com/design-systems/
       - DRUIDS: https://druids.datadoghq.com/
+  - Testing:
+      - Chromatic: https://www.chromatic.com
 
 Security:
   - Snyk:
@@ -67,6 +74,12 @@ Docker:
   - Containers:
       - docker-osx: https://hub.docker.com/r/sickcodes/docker-osx
       - alpine: https://hub.docker.com/_/alpine
+
+Distributed Web:
+  - Videos:
+      - PeerTube: https://github.com/Chocobozzz/PeerTube
+  - Images:
+      - PixelFed: https://github.com/pixelfed/pixelfed
 
 Standards:
   - W3C:
