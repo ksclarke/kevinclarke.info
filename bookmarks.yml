@@ -59,14 +59,14 @@ Software:
       - formatter-maven-plugin: https://github.com/revelc/formatter-maven-plugin
 
 Animation and Art:
-  - 2D:
+  - 2D Software:
       - rhubarb-lib-sync: https://github.com/DanielSWolf/rhubarb-lip-sync
       - Story Artist: https://www.blender.org/features/story-artist/
       - Krita: https://krita.org/
-  - 3D:
+  - 3D Software:
       - Blender: https://www.blender.org/
 
-UI:
+UI and UX:
   - CSS:
       - Tailwind: https://tailwindcss.com/
   - Design Systems:
@@ -78,6 +78,10 @@ UI:
       - DRUIDS: https://druids.datadoghq.com/
   - Testing:
       - Chromatic: https://www.chromatic.com
+
+Public APIs:
+  - Government:
+      - Congress: https://github.com/LibraryOfCongress/api.congress.gov/
 
 Security:
   - Snyk:
@@ -96,6 +100,19 @@ Distributed Web:
       - PeerTube: https://github.com/Chocobozzz/PeerTube
   - Images:
       - PixelFed: https://github.com/pixelfed/pixelfed
+
+Gaming:
+  - Journals:
+      - Game Studies: http://gamestudies.org/
+  - Engines:
+      - GodotEngine: https://godotengine.org/
+      - UnrealEngine: https://www.unrealengine.com/en-US
+      - libGDX: https://libgdx.com/
+
+Preservation:
+  - Software:
+      - Software Heritage Archive: https://archive.softwareheritage.org/save/
+      - GitHub Archive: https://archiveprogram.github.com/
 
 Standards:
   - W3C:
