@@ -45,6 +45,7 @@ Software:
       - HonKit: https://github.com/honkit/honkit
       - Mermaid in GH: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
       - keenwrite: https://github.com/DaveJarvis/keenwrite
+      - LanguageTool: https://languagetool.org/
   - Build Tools:
       - Maven: https://maven.apache.org/
       - CMake: https://cmake.org/
@@ -57,10 +58,13 @@ Software:
       - sortpom: https://github.com/Ekryd/sortpom
       - formatter-maven-plugin: https://github.com/revelc/formatter-maven-plugin
 
-
-Animation:
+Animation and Art:
   - 2D:
       - rhubarb-lib-sync: https://github.com/DanielSWolf/rhubarb-lip-sync
+      - Story Artist: https://www.blender.org/features/story-artist/
+      - Krita: https://krita.org/
+  - 3D:
+      - Blender: https://www.blender.org/
 
 UI:
   - CSS:
