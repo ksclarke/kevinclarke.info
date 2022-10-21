@@ -40,6 +40,10 @@ Software:
       - csv-validator: https://github.com/digital-preservation/csv-validator
       - droid: https://github.com/digital-preservation/droid
       - utf8-validator: https://github.com/digital-preservation/utf8-validator
+  - Cataloging:
+      - marcauth-to-madsrdf: https://github.com/lcnetdev/marcauth-to-madsrdf
+      - marc2bibframe2: https://github.com/lcnetdev/marc2bibframe2
+      - bibframe2marc: https://github.com/lcnetdev/bibframe2marc
   - Documentation:
       - Javadoc Themer: https://nisrulz.com/javadoc-themer/
       - HonKit: https://github.com/honkit/honkit
@@ -121,9 +125,11 @@ Standards:
       - ActivityPub: https://www.w3.org/TR/activitypub/
       - XQuery: https://www.w3.org/TR/xquery-31/
       - XPath: https://www.w3.org/TR/xpath-31/ii
-  - Other:
+  - JSON:
       - JSONiq: https://www.jsoniq.org/
       - IIIF: https://iiif.io/api/index.html
+  - Library:
+      - lcstandards: https://github.com/lcnetdev/lcstandards
 
 Conferences:
   - Markup:
@@ -137,6 +143,11 @@ Teas and Coffees:
     - August: https://august.la/
   - Coffees:
     - Bald Guy Brew: https://www.baldguybrew.com/
+
+Cannabis:
+  - CBD:
+    - Project CBD: https://www.projectcbd.org/
+    - Reddit Hempflowers: https://www.reddit.com/r/hempflowers/
 
 News and Politics:
   - Regional:
