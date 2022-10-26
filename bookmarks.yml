@@ -33,8 +33,10 @@ Software:
       - imageio-jnr: https://github.com/dbmdz/imageio-jnr
       - libjxl: https://github.com/libjxl/libjxl
       - NightMonkeys: https://github.com/gotson/NightMonkeys
-  - ByteCoder:
-      - User Manual: https://mirkosertic.github.io/Bytecoder/
+  - Java to Javascript:
+      - Bytecoder: https://mirkosertic.github.io/Bytecoder/
+      - bck2brwsr: https://github.com/jtulach/bck2brwsr/
+      - J2CL: https://github.com/google/j2cl
   - Data Validation:
       - csv-schema: https://github.com/digital-preservation/csv-schema
       - csv-validator: https://github.com/digital-preservation/csv-validator
