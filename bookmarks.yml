@@ -132,7 +132,10 @@ Standards:
       - JSONiq: https://www.jsoniq.org/
       - IIIF: https://iiif.io/api/index.html
   - Library:
-      - lcstandards: https://github.com/lcnetdev/lcstandards
+      - LOC Metadata: https://github.com/lcnetdev/lcstandards
+      - EDTF: https://www.loc.gov/standards/datetime/
+      - OCFL: https://ocfl.io/
+      - BagIt: https://www.rfc-editor.org/rfc/rfc8493
 
 Conferences:
   - Markup:
